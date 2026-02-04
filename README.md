@@ -1,7 +1,3 @@
-
-
-<h1>Do you like Pomosh? If you like, <a href="https://apps.apple.com/us/app/pomosh/id1515791898?ls=1" target="_blank">Please consider support !</a> </h1>
-
 <div align="center">
 	<img src="https://imgur.com/qcyQcIV.png" width="200" height="200" />
 	<h1><strong>🍅 Pomosh</strong> • Pomodoro technique asistant •</h1>
