@@ -29,7 +29,7 @@ struct PagerView<Content: View>: View {
             .frame(width: geometry.size.width, alignment: .leading)
             .offset(x: -CGFloat(self.currentIndex) * geometry.size.width)
             .offset(x: self.translation)
-            .animation(.interactiveSpring(response: 0.6, dampingFraction: 0.6, blendDuration: 0))
+            .animation(.interactiveSpring(response: 0.6, dampingFraction: 0.6, blendDuration: 0), value: currentIndex)
             .gesture(
                 
                 DragGesture().updating(self.$translation) { value, state, _ in
