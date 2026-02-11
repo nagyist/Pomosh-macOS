@@ -58,11 +58,11 @@ A working block and a break count as a cycle. A Cycle with a 25-minute working &
 
 ## Requirements 🤔
 
-`MacOS 10.15`
+`> macOS 15`
 
 ## Download 🚀
 
-[![](https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/macappstore-lrg.svg)](https://apps.apple.com/us/app/pomosh/id1515791898?ls=1)
+[v.1.0.7 Download](https://github.com/stevenselcuk/Pomosh-macOS/releases/tag/v.1.0.7)
 
 
 ## Roadmap 🗺
@@ -71,6 +71,10 @@ A working block and a break count as a cycle. A Cycle with a 25-minute working &
 - [x] Launch on Producthunt 
 
 ## Change log 🧠
+
+### 🏷 v1.0.7 : Out-Of-AppStore Release
+
+- I removed it from AppStore, so I needed a GitHub release
 
 ### 🏷 v1.0.6 : Improve the performance. 
 
